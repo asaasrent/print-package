@@ -1,0 +1,16 @@
+{
+    "name": "asaas_rent/print_package",
+    "description": "This is a test package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Test\\PrintMessage\\PrintServiceProvider"
+            ]
+
+        }
+    }
+}
